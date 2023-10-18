@@ -18,7 +18,7 @@ spec:
         app: flask
     spec:
       containers:
-      - image: ra007/flask:latest
+      - image: ra007/flask:0
         name: flask
         resources: {}
 status: {}
